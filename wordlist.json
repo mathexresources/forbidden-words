@@ -1,7 +1,14 @@
 [
-    { "word": "Formuláž", "pushups": 10 },
-    { "word": "Blbý co", "pushups": 10 },
-    { "word": "Databáže", "pushups": 10 },
-    { "word": "Čtvrtzmrd", "pushups": 10 },
-    { "word": "N-word", "pushups": 20 },
+  { "word": "Formuláž", "pushups": 10 },
+  { "word": "Blbý co", "pushups": 10 },
+  { "word": "Databáže", "pushups": 10 },
+  { "word": "Čtvrtzmrd", "pushups": 10 },
+  { "word": "N-word", "pushups": 20 },
+  { "word": "Cheese", "pushups": 10 },
+  { "word": "BRUH", "pushups": 10 },
+  { "word": "Tunel", "pushups": 10 },
+  { "word": "Nedává to peníze, nedává to smysl", "pushups": 10 },
+  { "word": "It’s the final downtown", "pushups": 10 },
+  { "word": "Motor ven", "pushups": 10 },
+  { "word": "Kurzor", "pushups": 10 }
 ]
